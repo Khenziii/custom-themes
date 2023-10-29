@@ -1,0 +1,8 @@
+# Custom Themes
+Just a repo containing all of the themes that i have created and am / was using =)
+
+# Installing A Theme
+The installation process ofcourse varies on whatever app you're installing the theme for; and that's why I'll put a file called 'readme.txt' inside of every app's directory. Don't be shy to take a look at it if you're encountering problems!
+
+# TO-DO List:
+1. Create the vencord theme
