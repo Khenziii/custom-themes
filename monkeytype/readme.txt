@@ -1,1 +1,0 @@
-Using themes on monkeytype is as easy as just visiting a link :) All of the links are stored in ./theme.txt.
