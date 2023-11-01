@@ -12,4 +12,4 @@ I will put previews of the themes inside of "previews" directory in the theme's 
 ![A Example image should render here :vv](https://raw.githubusercontent.com/Khenziii/custom-themes/master/monkeytype/previews/khenzii_dev_v1-0/3.png)
 
 # TO-DO List:
-1. Create the vencord theme
+1. Create the discord theme

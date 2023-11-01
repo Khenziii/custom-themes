@@ -1,0 +1,49 @@
+/**
+ * @name khenzii_dev_v1_0
+ * @author khenzii
+ * @version 1.0
+ * @description A highly customizable theme using the khenzii.dev color pallete.
+ * @source https://github.com/Khenziii/custom-themes
+*/
+
+/*
+  @import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+*/
+
+/* Variables */
+:root {
+    /* khenzii.dev palette (copied from https://github.com/Khenziii/khenzii-dev/blob/master/css/presets/variables.css) */
+    /*---COLORS---*/
+    /*dark theme*/
+    --background: #171617;
+    --background_less: #2A2A29;
+    --background_less_less: #333333;
+    --primary: #9141ac;
+    --secondary: #dc8add;
+    --text-color: #ebd4f1;
+    --text-accent: #ffffff;
+    --warning: #e74648;
+
+    /* Profile pictures size (in chats, etc.) */
+    --avatar-size: 32px;
+    /* The DMs icon */
+    --home-image: url('https://i.imgur.com/PK73DVj.png');
+
+    /* backgrounds */
+    /* chat, folders background */
+    --background-solid: var(--background);
+    /* color for stuff that is not a chat or a folder */
+    /* (e.g.: users list, channels list, etc.) */
+    --background-solid-dark: var(--background);
+    /* color for guilds list */
+    --background-solid-darker: var(--background_less);
+
+    /* accent (for hrefs and stuff) */
+    --accent: 37, 172, 232;
+    /* alt for accent */
+    --accent-alt: var(--secondary);
+
+    /* colors used with opacity for shadows */
+    --md-black: 0, 0, 0;
+    --dm-white: 255, 255, 255;
+}
