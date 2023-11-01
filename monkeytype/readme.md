@@ -1,5 +1,5 @@
 # Installation Guide
-Using themes on monkeytype is as easy as just visiting a link :) All of the links are stored in [./theme.txt](https://github.com/Khenziii/custom-themes/blob/master/monkeytype/theme.txt).
+Using themes on monkeytype is as easy as just visiting a link :) All of the links are stored in [theme.txt](https://github.com/Khenziii/custom-themes/blob/master/monkeytype/theme.txt).
 
 # khenzii.dev v1.0
 ![A preview image should render here :v](https://raw.githubusercontent.com/Khenziii/custom-themes/master/monkeytype/previews/khenzii_dev_v1-0/1.png)
