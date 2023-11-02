@@ -1,5 +1,8 @@
 khenzii.dev newest:
 https://raw.githubusercontent.com/Khenziii/custom-themes/master/discord/css/khenzii_dev_newest/khenzii_dev.css
 
+khenzii.dev v1.1:
+https://raw.githubusercontent.com/Khenziii/custom-themes/master/discord/css/khenzii_dev_v1_1/khenzii_dev_v1_1.css
+
 khenzii.dev v1.0:
 https://raw.githubusercontent.com/Khenziii/custom-themes/master/discord/css/khenzii_dev_v1_0/khenzii_dev_v1_0.css
